@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    padding-top: 4em;
+    padding-left: 1em;
+    font-size: 2em;
+    height: 6em;
+    background-image: url("/assets/img/img-header/prueba-3.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+section {
+    width: 60%;
+    margin: auto;
+}
+
+.price {
+    padding-top: 7em;
+}
+
+section td {
+    font-size: 1.2em;
+    width: 50%;
+    padding: 1rem;
+}
+
+section img {
+    width: 100%;
+    border: none;
+    padding-top: 9rem;
+}
+
+footer {
+    height: 3em;
+    padding-top: 2em;
+    font-size: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: orange;
+    background-size: cover;
+    text-align: center;
+}
+
