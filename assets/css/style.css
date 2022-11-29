@@ -5,8 +5,9 @@
 }
 
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Fredoka One', cursive;
 }
+
 
 header {
     padding-top: 4em;
@@ -36,10 +37,10 @@ section td {
 
 section img {
     width: 100%;
-    border: none;
+    border: solid;
+    border-radius: 20px;
     padding-top: 9rem;
 }
-
 
 
 /* Estilos iconos footer */
